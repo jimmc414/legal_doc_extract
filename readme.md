@@ -1,6 +1,3 @@
-`README.md`:
-
-```markdown
 # Legal Document Extraction Pipeline (Pydantic + Google Gemini 2.0 Flash) - Proof of Concept
 
 This project provides a proof-of-concept (PoC) implementation of a legal document extraction pipeline using Python, Pydantic, Instructor, and the Google Gemini 2.0 Flash API.  It demonstrates how to:
@@ -155,4 +152,3 @@ This is a *proof-of-concept* and has several limitations:
 *   **No Streaming:** There is no support for streaming results.
 
 To build a production-ready system, you would need to address these limitations and add features like user authentication, a web interface, and more.
-```
